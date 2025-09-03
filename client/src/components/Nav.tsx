@@ -17,7 +17,7 @@ const Nav = () => {
 
             <div className="flex space-x-8 text-gray-500 md:inline hidden">
                 <Link to="/contact">Offers</Link>
-                <Link to="/login">Posts</Link>
+                <Link to="/posts">Posts</Link>
                 <Link to="/about">Message</Link>
                  <Link to="/profile">Profile</Link>
             </div>
