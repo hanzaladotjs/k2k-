@@ -32,7 +32,7 @@ const Home = () => {
       <div className="flex justify-center">
       <MacbookScroll src={hot} showGradient={false} />
       </div>
-      <div className="flex justify-center items-center mt-100 md:mt-150">
+      <div className="flex justify-center items-center mt-90 md:mt-150">
         <div className="flex flex-col ">
           <div className="flex flex-col md:flex-row items-center md:justify-center text-3xl md:text-5xl space-x-2">
             <div>Revolutionizing </div>
